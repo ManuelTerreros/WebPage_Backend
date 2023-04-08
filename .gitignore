@@ -11,8 +11,5 @@ test*.csv
 #folder test
 test*/
 
-# estesi
-estesi.csv
-
 # Folder (aqui todo lo que empieza en f y termina en r sera ignorado), los / indican carpetas
 f*r/ 
