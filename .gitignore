@@ -1,0 +1,18 @@
+# Variables de entorno
+*.env
+# Folder test
+test_no_subir
+
+#Archivos extension .PY
+*.py
+#Archivos que sean csv pero que tengan la palabra "test" al inicio
+test*.csv
+
+#folder test
+test*/
+
+# estesi
+estesi.csv
+
+# Folder (aqui todo lo que empieza en f y termina en r sera ignorado), los / indican carpetas
+f*r/ 
